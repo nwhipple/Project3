@@ -1,0 +1,1411 @@
+ {
+      "Country": "USA",
+      "YearBuilt": 1967,
+      "OCC": 700
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1967,
+      "OCC": 750
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1967,
+      "OCC": 750
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1967,
+      "OCC": 800
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1967,
+      "OCC": 800
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1967,
+      "OCC": 900
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1968,
+      "OCC": 800
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1968,
+      "OCC": 900
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1969,
+      "OCC": 900
+     },
+     {
+      "Country": "India",
+      "YearBuilt": 1965,
+      "OCC": 1000
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1966,
+      "OCC": 1050
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1966,
+      "OCC": 1000
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1966,
+      "OCC": 1000
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1967,
+      "OCC": 1000
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1967,
+      "OCC": 1050
+     },
+     {
+      "Country": "India",
+      "YearBuilt": 1968,
+      "OCC": 1000
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1968,
+      "OCC": 950
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1967,
+      "OCC": 1000
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1968,
+      "OCC": 1000
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1968,
+      "OCC": 1200
+     },
+     {
+      "Country": "W. Germany",
+      "YearBuilt": 1964,
+      "OCC": 1650
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1964,
+      "OCC": 1400
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1964,
+      "OCC": 1500
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1965,
+      "OCC": 1300
+     },
+     {
+      "Country": "W. Germany",
+      "YearBuilt": 1965,
+      "OCC": 1500
+     },
+     {
+      "Country": "W. Germany",
+      "YearBuilt": 1965,
+      "OCC": 1400
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1966,
+      "OCC": 1200
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1966,
+      "OCC": 1200
+     },
+     {
+      "Country": "India",
+      "YearBuilt": 1966,
+      "OCC": 1350
+     },
+     {
+      "Country": "W. Germany",
+      "YearBuilt": 1965,
+      "OCC": 3500
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1966,
+      "OCC": 1200
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1967,
+      "OCC": 1200
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1967,
+      "OCC": 1300
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1968,
+      "OCC": 1300
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1968,
+      "OCC": 1350
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1969,
+      "OCC": 1350
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1967,
+      "OCC": 1500
+     },
+     {
+      "Country": "W. Germany",
+      "YearBuilt": 1966,
+      "OCC": 1500
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1967,
+      "OCC": 1500
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1967,
+      "OCC": 1500
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1967,
+      "OCC": 1550
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1967,
+      "OCC": 1650
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1968,
+      "OCC": 1700
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1969,
+      "OCC": 1700
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1968,
+      "OCC": 1800
+     },
+     {
+      "Country": "Japan",
+      "YearBuilt": 1967,
+      "OCC": 1950
+     },
+     {
+      "Country": "Japan",
+      "YearBuilt": 1967,
+      "OCC": 1950
+     },
+     {
+      "Country": "Japan",
+      "YearBuilt": 1967,
+      "OCC": 1900
+     },
+     {
+      "Country": "Japan",
+      "YearBuilt": 1969,
+      "OCC": 1500
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1967,
+      "OCC": 1500
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1969,
+      "OCC": 1600
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1970,
+      "OCC": 1700
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1970,
+      "OCC": 1500
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1970,
+      "OCC": 1500
+     },
+     {
+      "Country": "W. Germany",
+      "YearBuilt": 1970,
+      "OCC": 1800
+     },
+     {
+      "Country": "India",
+      "YearBuilt": 1971,
+      "OCC": 800
+     },
+     {
+      "Country": "India",
+      "YearBuilt": 1973,
+      "OCC": 800
+     },
+     {
+      "Country": "W. Germany",
+      "YearBuilt": 1973,
+      "OCC": 1000
+     },
+     {
+      "Country": "Canada",
+      "YearBuilt": 1966,
+      "OCC": 2700
+     },
+     {
+      "Country": "Canada",
+      "YearBuilt": 1967,
+      "OCC": 2700
+     },
+     {
+      "Country": "Canada",
+      "YearBuilt": 1971,
+      "OCC": 2400
+     },
+     {
+      "Country": "Canada",
+      "YearBuilt": 1972,
+      "OCC": 2400
+     },
+     {
+      "Country": "Canada",
+      "YearBuilt": 1973,
+      "OCC": 2400
+     },
+     {
+      "Country": "Canada",
+      "YearBuilt": 1974,
+      "OCC": 2400
+     },
+     {
+      "Country": "Canada",
+      "YearBuilt": 1975,
+      "OCC": 2700
+     },
+     {
+      "Country": "Canada",
+      "YearBuilt": 1976,
+      "OCC": 2700
+     },
+     {
+      "Country": "Canada",
+      "YearBuilt": 1976,
+      "OCC": 2700
+     },
+     {
+      "Country": "Canada",
+      "YearBuilt": 1977,
+      "OCC": 2700
+     },
+     {
+      "Country": "Canada",
+      "YearBuilt": 1977,
+      "OCC": 2600
+     },
+     {
+      "Country": "Canada",
+      "YearBuilt": 1978,
+      "OCC": 2600
+     },
+     {
+      "Country": "Canada",
+      "YearBuilt": 1988,
+      "OCC": 2600
+     },
+     {
+      "Country": "Canada",
+      "YearBuilt": 1989,
+      "OCC": 2600
+     },
+     {
+      "Country": "Canada",
+      "YearBuilt": 1974,
+      "OCC": 3500
+     },
+     {
+      "Country": "Canada",
+      "YearBuilt": 1975,
+      "OCC": 3500
+     },
+     {
+      "Country": "Canada",
+      "YearBuilt": 1983,
+      "OCC": 3900
+     },
+     {
+      "Country": "Canada",
+      "YearBuilt": 1984,
+      "OCC": 3900
+     },
+     {
+      "Country": "Canada",
+      "YearBuilt": 1985,
+      "OCC": 3900
+     },
+     {
+      "Country": "Canada",
+      "YearBuilt": 1986,
+      "OCC": 3900
+     },
+     {
+      "Country": "Japan",
+      "YearBuilt": 1966,
+      "OCC": 3900
+     },
+     {
+      "Country": "Japan",
+      "YearBuilt": 1967,
+      "OCC": 3050
+     },
+     {
+      "Country": "Japan",
+      "YearBuilt": 1966,
+      "OCC": 2300
+     },
+     {
+      "Country": "Japan",
+      "YearBuilt": 1970,
+      "OCC": 1700
+     },
+     {
+      "Country": "Japan",
+      "YearBuilt": 1970,
+      "OCC": 1800
+     },
+     {
+      "Country": "Japan",
+      "YearBuilt": 1971,
+      "OCC": 1300
+     },
+     {
+      "Country": "Japan",
+      "YearBuilt": 1971,
+      "OCC": 1300
+     },
+     {
+      "Country": "Japan",
+      "YearBuilt": 1973,
+      "OCC": 1700
+     },
+     {
+      "Country": "Japan",
+      "YearBuilt": 1971,
+      "OCC": 1700
+     },
+     {
+      "Country": "Japan",
+      "YearBuilt": 1973,
+      "OCC": 1600
+     },
+     {
+      "Country": "Japan",
+      "YearBuilt": 1973,
+      "OCC": 1500
+     },
+     {
+      "Country": "Canada",
+      "YearBuilt": 1974,
+      "OCC": 1400
+     },
+     {
+      "Country": "Canada",
+      "YearBuilt": 1974,
+      "OCC": 1350
+     },
+     {
+      "Country": "Japan",
+      "YearBuilt": 1973,
+      "OCC": 2100
+     },
+     {
+      "Country": "Japan",
+      "YearBuilt": 1974,
+      "OCC": 2450
+     },
+     {
+      "Country": "Japan",
+      "YearBuilt": 1974,
+      "OCC": 2050
+     },
+     {
+      "Country": "Japan",
+      "YearBuilt": 1974,
+      "OCC": 2100
+     },
+     {
+      "Country": "Japan",
+      "YearBuilt": 1974,
+      "OCC": 2000
+     },
+     {
+      "Country": "Japan",
+      "YearBuilt": 1976,
+      "OCC": 3800
+     },
+     {
+      "Country": "Japan",
+      "YearBuilt": 1976,
+      "OCC": 3850
+     },
+     {
+      "Country": "Japan",
+      "YearBuilt": 1978,
+      "OCC": 1977
+     },
+     {
+      "Country": "Japan",
+      "YearBuilt": 1978,
+      "OCC": 2950
+     },
+     {
+      "Country": "Japan",
+      "YearBuilt": 1982,
+      "OCC": 2800
+     },
+     {
+      "Country": "Japan",
+      "YearBuilt": 1982,
+      "OCC": 3000
+     },
+     {
+      "Country": "Japan",
+      "YearBuilt": 1984,
+      "OCC": 3000
+     },
+     {
+      "Country": "Japan",
+      "YearBuilt": 1987,
+      "OCC": 2250
+     },
+     {
+      "Country": "Japan",
+      "YearBuilt": 1986,
+      "OCC": 3000
+     },
+     {
+      "Country": "Japan",
+      "YearBuilt": 1980,
+      "OCC": 3700
+     },
+     {
+      "Country": "Japan",
+      "YearBuilt": 1982,
+      "OCC": 3300
+     },
+     {
+      "Country": "Japan",
+      "YearBuilt": 1981,
+      "OCC": 3700
+     },
+     {
+      "Country": "Japan",
+      "YearBuilt": 1984,
+      "OCC": 3650
+     },
+     {
+      "Country": "Japan",
+      "YearBuilt": 1985,
+      "OCC": 3500
+     },
+     {
+      "Country": "Japan",
+      "YearBuilt": 1985,
+      "OCC": 3400
+     },
+     {
+      "Country": "Japan",
+      "YearBuilt": 1984,
+      "OCC": 4100
+     },
+     {
+      "Country": "Japan",
+      "YearBuilt": 1985,
+      "OCC": 4100
+     },
+     {
+      "Country": "Japan",
+      "YearBuilt": 1981,
+      "OCC": 4800
+     },
+     {
+      "Country": "Japan",
+      "YearBuilt": 1981,
+      "OCC": 5000
+     },
+     {
+      "Country": "Japan",
+      "YearBuilt": 1985,
+      "OCC": 5500
+     },
+     {
+      "Country": "Japan",
+      "YearBuilt": 1989,
+      "OCC": 5700
+     },
+     {
+      "Country": "Japan",
+      "YearBuilt": 1987,
+      "OCC": 4800
+     },
+     {
+      "Country": "Japan",
+      "YearBuilt": 2001,
+      "OCC": 4300
+     },
+     {
+      "Country": "Japan",
+      "YearBuilt": 2005,
+      "OCC": 3850
+     },
+     {
+      "Country": "Japan",
+      "YearBuilt": 2003,
+      "OCC": 3050
+     },
+     {
+      "Country": "Japan",
+      "YearBuilt": 2001,
+      "OCC": 2950
+     },
+     {
+      "Country": "Japan",
+      "YearBuilt": 1987,
+      "OCC": 4200
+     },
+     {
+      "Country": "Japan",
+      "YearBuilt": 1988,
+      "OCC": 3500
+     },
+     {
+      "Country": "Japan",
+      "YearBuilt": 1989,
+      "OCC": 3000
+     },
+     {
+      "Country": "Japan",
+      "YearBuilt": 1990,
+      "OCC": 3100
+     },
+     {
+      "Country": "Japan",
+      "YearBuilt": 1990,
+      "OCC": 3500
+     },
+     {
+      "Country": "Japan",
+      "YearBuilt": 1991,
+      "OCC": 3650
+     },
+     {
+      "Country": "Japan",
+      "YearBuilt": 1992,
+      "OCC": 3250
+     },
+     {
+      "Country": "Japan",
+      "YearBuilt": 1994,
+      "OCC": 3150
+     },
+     {
+      "Country": "Japan",
+      "YearBuilt": 1994,
+      "OCC": 2800
+     },
+     {
+      "Country": "Japan",
+      "YearBuilt": 1993,
+      "OCC": 2700
+     },
+     {
+      "Country": "W. Germany",
+      "YearBuilt": 1975,
+      "OCC": 3900
+     },
+     {
+      "Country": "India",
+      "YearBuilt": 1977,
+      "OCC": 2000
+     },
+     {
+      "Country": "India",
+      "YearBuilt": 1978,
+      "OCC": 2000
+     },
+     {
+      "Country": "India",
+      "YearBuilt": 1985,
+      "OCC": 2050
+     },
+     {
+      "Country": "India",
+      "YearBuilt": 1985,
+      "OCC": 2050
+     },
+     {
+      "Country": "India",
+      "YearBuilt": 1989,
+      "OCC": 2350
+     },
+     {
+      "Country": "India",
+      "YearBuilt": 1990,
+      "OCC": 2350
+     },
+     {
+      "Country": "India",
+      "YearBuilt": 1990,
+      "OCC": 2200
+     },
+     {
+      "Country": "India",
+      "YearBuilt": 1991,
+      "OCC": 2200
+     },
+     {
+      "Country": "India",
+      "YearBuilt": 2000,
+      "OCC": 1900
+     },
+     {
+      "Country": "India",
+      "YearBuilt": 2000,
+      "OCC": 1900
+     },
+     {
+      "Country": "India",
+      "YearBuilt": 2003,
+      "OCC": 2000
+     },
+     {
+      "Country": "India",
+      "YearBuilt": 2003,
+      "OCC": 2000
+     },
+     {
+      "Country": "India",
+      "YearBuilt": 2003,
+      "OCC": 2000
+     },
+     {
+      "Country": "India",
+      "YearBuilt": 2004,
+      "OCC": 1900
+     },
+     {
+      "Country": "India",
+      "YearBuilt": 2004,
+      "OCC": 1900
+     },
+     {
+      "Country": "S Korea",
+      "YearBuilt": 1973,
+      "OCC": 3500
+     },
+     {
+      "Country": "S Korea",
+      "YearBuilt": 1977,
+      "OCC": 3950
+     },
+     {
+      "Country": "S Korea",
+      "YearBuilt": 1977,
+      "OCC": 3900
+     },
+     {
+      "Country": "S Korea",
+      "YearBuilt": 1979,
+      "OCC": 2250
+     },
+     {
+      "Country": "S Korea",
+      "YearBuilt": 1980,
+      "OCC": 2250
+     },
+     {
+      "Country": "S Korea",
+      "YearBuilt": 1982,
+      "OCC": 2700
+     },
+     {
+      "Country": "S Korea",
+      "YearBuilt": 1983,
+      "OCC": 2700
+     },
+     {
+      "Country": "S Korea",
+      "YearBuilt": 1984,
+      "OCC": 2700
+     },
+     {
+      "Country": "S Korea",
+      "YearBuilt": 1984,
+      "OCC": 2700
+     },
+     {
+      "Country": "S Korea",
+      "YearBuilt": 1990,
+      "OCC": 2300
+     },
+     {
+      "Country": "S Korea",
+      "YearBuilt": 1990,
+      "OCC": 2300
+     },
+     {
+      "Country": "S Korea",
+      "YearBuilt": 1993,
+      "OCC": 2900
+     },
+     {
+      "Country": "S Korea",
+      "YearBuilt": 1995,
+      "OCC": 2900
+     },
+     {
+      "Country": "S Korea",
+      "YearBuilt": 1995,
+      "OCC": 2900
+     },
+     {
+      "Country": "S Korea",
+      "YearBuilt": 1994,
+      "OCC": 2050
+     },
+     {
+      "Country": "S Korea",
+      "YearBuilt": 1994,
+      "OCC": 2050
+     },
+     {
+      "Country": "S Korea",
+      "YearBuilt": 1997,
+      "OCC": 1700
+     },
+     {
+      "Country": "S Korea",
+      "YearBuilt": 1997,
+      "OCC": 1700
+     },
+     {
+      "Country": "S Korea",
+      "YearBuilt": 2000,
+      "OCC": 1950
+     },
+     {
+      "Country": "S Korea",
+      "YearBuilt": 2001,
+      "OCC": 1950
+     },
+     {
+      "Country": "S Korea",
+      "YearBuilt": 2007,
+      "OCC": 2000
+     },
+     {
+      "Country": "S Korea",
+      "YearBuilt": 2008,
+      "OCC": 2000
+     },
+     {
+      "Country": "S Korea",
+      "YearBuilt": 2008,
+      "OCC": 2000
+     },
+     {
+      "Country": "S Korea",
+      "YearBuilt": 2009,
+      "OCC": 2000
+     },
+     {
+      "Country": "S Korea",
+      "YearBuilt": 2009,
+      "OCC": 1800
+     },
+     {
+      "Country": "W. Germany",
+      "YearBuilt": 1983,
+      "OCC": 4000
+     },
+     {
+      "Country": "W. Germany",
+      "YearBuilt": 1983,
+      "OCC": 3300
+     },
+     {
+      "Country": "W. Germany",
+      "YearBuilt": 1983,
+      "OCC": 3300
+     },
+     {
+      "Country": "W. Germany",
+      "YearBuilt": 1976,
+      "OCC": 2900
+     },
+     {
+      "Country": "W. Germany",
+      "YearBuilt": 1978,
+      "OCC": 2900
+     },
+     {
+      "Country": "W. Germany",
+      "YearBuilt": 1977,
+      "OCC": 2700
+     },
+     {
+      "Country": "W. Germany",
+      "YearBuilt": 1978,
+      "OCC": 2700
+     },
+     {
+      "Country": "W. Germany",
+      "YearBuilt": 1974,
+      "OCC": 2050
+     },
+     {
+      "Country": "W. Germany",
+      "YearBuilt": 1975,
+      "OCC": 2050
+     },
+     {
+      "Country": "W. Germany",
+      "YearBuilt": 1970,
+      "OCC": 1900
+     },
+     {
+      "Country": "W. Germany",
+      "YearBuilt": 1971,
+      "OCC": 1600
+     },
+     {
+      "Country": "W. Germany",
+      "YearBuilt": 1973,
+      "OCC": 1400
+     },
+     {
+      "Country": "W. Germany",
+      "YearBuilt": 1974,
+      "OCC": 1400
+     },
+     {
+      "Country": "W. Germany",
+      "YearBuilt": 1974,
+      "OCC": 1250
+     },
+     {
+      "Country": "France",
+      "YearBuilt": 1973,
+      "OCC": 1300
+     },
+     {
+      "Country": "France",
+      "YearBuilt": 1973,
+      "OCC": 1300
+     },
+     {
+      "Country": "France",
+      "YearBuilt": 1974,
+      "OCC": 1350
+     },
+     {
+      "Country": "France",
+      "YearBuilt": 1974,
+      "OCC": 1350
+     },
+     {
+      "Country": "France",
+      "YearBuilt": 1975,
+      "OCC": 1350
+     },
+     {
+      "Country": "France",
+      "YearBuilt": 1975,
+      "OCC": 1200
+     },
+     {
+      "Country": "France",
+      "YearBuilt": 1975,
+      "OCC": 1300
+     },
+     {
+      "Country": "France",
+      "YearBuilt": 1975,
+      "OCC": 1300
+     },
+     {
+      "Country": "France",
+      "YearBuilt": 1976,
+      "OCC": 1300
+     },
+     {
+      "Country": "France",
+      "YearBuilt": 1975,
+      "OCC": 1800
+     },
+     {
+      "Country": "France",
+      "YearBuilt": 1975,
+      "OCC": 1850
+     },
+     {
+      "Country": "France",
+      "YearBuilt": 1975,
+      "OCC": 1900
+     },
+     {
+      "Country": "France",
+      "YearBuilt": 1976,
+      "OCC": 1700
+     },
+     {
+      "Country": "France",
+      "YearBuilt": 1976,
+      "OCC": 1700
+     },
+     {
+      "Country": "France",
+      "YearBuilt": 1977,
+      "OCC": 1800
+     },
+     {
+      "Country": "France",
+      "YearBuilt": 1977,
+      "OCC": 1850
+     },
+     {
+      "Country": "France",
+      "YearBuilt": 1976,
+      "OCC": 2300
+     },
+     {
+      "Country": "France",
+      "YearBuilt": 1977,
+      "OCC": 2300
+     },
+     {
+      "Country": "France",
+      "YearBuilt": 1977,
+      "OCC": 1700
+     },
+     {
+      "Country": "France",
+      "YearBuilt": 1978,
+      "OCC": 1900
+     },
+     {
+      "Country": "France",
+      "YearBuilt": 1978,
+      "OCC": 1900
+     },
+     {
+      "Country": "France",
+      "YearBuilt": 1978,
+      "OCC": 1700
+     },
+     {
+      "Country": "France",
+      "YearBuilt": 1978,
+      "OCC": 1700
+     },
+     {
+      "Country": "France",
+      "YearBuilt": 1979,
+      "OCC": 1600
+     },
+     {
+      "Country": "France",
+      "YearBuilt": 1979,
+      "OCC": 1600
+     },
+     {
+      "Country": "France",
+      "YearBuilt": 1979,
+      "OCC": 1450
+     },
+     {
+      "Country": "France",
+      "YearBuilt": 1979,
+      "OCC": 1450
+     },
+     {
+      "Country": "France",
+      "YearBuilt": 1992,
+      "OCC": 1900
+     },
+     {
+      "Country": "France",
+      "YearBuilt": 1988,
+      "OCC": 1900
+     },
+     {
+      "Country": "France",
+      "YearBuilt": 1984,
+      "OCC": 2500
+     },
+     {
+      "Country": "France",
+      "YearBuilt": 1986,
+      "OCC": 2500
+     },
+     {
+      "Country": "France",
+      "YearBuilt": 1979,
+      "OCC": 1950
+     },
+     {
+      "Country": "France",
+      "YearBuilt": 1979,
+      "OCC": 2050
+     },
+     {
+      "Country": "France",
+      "YearBuilt": 1980,
+      "OCC": 1950
+     },
+     {
+      "Country": "France",
+      "YearBuilt": 1980,
+      "OCC": 2050
+     },
+     {
+      "Country": "France",
+      "YearBuilt": 1980,
+      "OCC": 1700
+     },
+     {
+      "Country": "France",
+      "YearBuilt": 1980,
+      "OCC": 1700
+     },
+     {
+      "Country": "France",
+      "YearBuilt": 1980,
+      "OCC": 1700
+     },
+     {
+      "Country": "France",
+      "YearBuilt": 1982,
+      "OCC": 1700
+     },
+     {
+      "Country": "France",
+      "YearBuilt": 1982,
+      "OCC": 1800
+     },
+     {
+      "Country": "France",
+      "YearBuilt": 1983,
+      "OCC": 1800
+     },
+     {
+      "Country": "France",
+      "YearBuilt": 1983,
+      "OCC": 1600
+     },
+     {
+      "Country": "France",
+      "YearBuilt": 1985,
+      "OCC": 1600
+     },
+     {
+      "Country": "France",
+      "YearBuilt": 1983,
+      "OCC": 1900
+     },
+     {
+      "Country": "France",
+      "YearBuilt": 1983,
+      "OCC": 1950
+     },
+     {
+      "Country": "France",
+      "YearBuilt": 1985,
+      "OCC": 1900
+     },
+     {
+      "Country": "France",
+      "YearBuilt": 1985,
+      "OCC": 1950
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1974,
+      "OCC": 10900
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1976,
+      "OCC": 8700
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1976,
+      "OCC": 8200
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1974,
+      "OCC": 8050
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1976,
+      "OCC": 7850
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1975,
+      "OCC": 7300
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1977,
+      "OCC": 7400
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1974,
+      "OCC": 7000
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1975,
+      "OCC": 6500
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1973,
+      "OCC": 6050
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1977,
+      "OCC": 6000
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1978,
+      "OCC": 5800
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1975,
+      "OCC": 5600
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1974,
+      "OCC": 5500
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1968,
+      "OCC": 2200
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1965,
+      "OCC": 2500
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1979,
+      "OCC": 2300
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1966,
+      "OCC": 4100
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1971,
+      "OCC": 4200
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1976,
+      "OCC": 5200
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1976,
+      "OCC": 5100
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1976,
+      "OCC": 5000
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1974,
+      "OCC": 4950
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1975,
+      "OCC": 4950
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1975,
+      "OCC": 4700
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1975,
+      "OCC": 4650
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1976,
+      "OCC": 4300
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1977,
+      "OCC": 4100
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1974,
+      "OCC": 3950
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1974,
+      "OCC": 3850
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1977,
+      "OCC": 3600
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1972,
+      "OCC": 1700
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1972,
+      "OCC": 1700
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1973,
+      "OCC": 1800
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1971,
+      "OCC": 1950
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1970,
+      "OCC": 2050
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1971,
+      "OCC": 2050
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1971,
+      "OCC": 2150
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1970,
+      "OCC": 2400
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1970,
+      "OCC": 2500
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1975,
+      "OCC": 2500
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1974,
+      "OCC": 2600
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1974,
+      "OCC": 3300
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1975,
+      "OCC": 3400
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1976,
+      "OCC": 3300
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1975,
+      "OCC": 3200
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1976,
+      "OCC": 3500
+     },
+     {
+      "Country": "USA",
+      "YearBuilt": 1977,
+      "OCC": 3600
+     }
+    ],
