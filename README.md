@@ -1,3 +1,5 @@
+Please see project slide here: [https://app.genially.com/editor/6674cd1a5d4f780014a11cbf](https://view.genially.com/6674cd1a5d4f780014a11cbf/presentation-exploration-of-nuclear-power)
+
 Project 3: Exploration of Nuclear Power 
 
 Overview and Purpose
@@ -27,6 +29,6 @@ International Atomic Energy Authority
 References for any code used that is not your own
 
 Class Material 
-Getting help from tutor
+Getting help from tutor - the tutor suggested and guided implementation of particles.js library and helped with many of the interactive charts.
 Research from leaflet website
 Xpert Learning Assistance 
