@@ -1,4 +1,5 @@
 /* ---- particles.js config ---- */
+// The tutor provided this code to me, and came from this documentation: https://vincentgarreau.com/particles.js/
 window.addEventListener("DOMContentLoaded",function(event){
 
     particlesJS("particles-js", {
